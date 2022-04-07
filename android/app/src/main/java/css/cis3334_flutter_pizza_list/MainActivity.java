@@ -1,4 +1,4 @@
-package css.flutter_pizza_list;
+package css.cis3334_flutter_pizza_list;
 
 import io.flutter.embedding.android.FlutterActivity;
 
